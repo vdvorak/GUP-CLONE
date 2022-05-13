@@ -18,7 +18,7 @@
     <properties>
         <target.jdk>1.8</target.jdk>
         <surefire.version>2.19</surefire.version>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
     </properties>
 
@@ -53,7 +53,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.2.2.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -88,7 +88,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aspects</artifactId>
-            <version>3.1.0.RELEASE</version>
+            <version>3.2.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.data</groupId>
